@@ -46,7 +46,7 @@ void member2_story(void) {
 
 // メンバー3：承②（出会い）
 void member3_story(void) {
-    printf("【3. 承】道中、【ここに仲間やアイテムとの出会いを書く】\n");
+    printf("【3. 承】  毎日教室にあってます。\n");
 }
 
 // メンバー4：転①（予期せぬトラブル）
