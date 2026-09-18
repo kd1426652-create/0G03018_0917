@@ -41,7 +41,7 @@ void member1_story(void) {
 
 // メンバー2：承①（旅立ち）
 void member2_story(void) {
-    printf("【2. 承】おばあさんからきびだんごをもらい、鬼ヶ島へ旅立つことにしました。\n");
+    printf("【2. 初】幸せに！\n");
 }
 
 // メンバー3：承②（出会い）
